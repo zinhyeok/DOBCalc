@@ -11,4 +11,5 @@
     <color name="backGround">#FEFAE0</color>
     <color name="age_backGround">#ede0d4</color>
     <color name="btn_color">#7f5539</color>
+    <color name="light_grey">#b7b7a4</color>
 </resources>
