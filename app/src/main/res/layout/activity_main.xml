@@ -9,6 +9,7 @@
     android:gravity="center_horizontal"
     android:orientation="vertical"
     android:background="@color/backGround"
+    android:padding="16dp"
     >
 
     <TextView
@@ -26,10 +27,28 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="@string/app_age"
-        android:background="@color/age_backGround"
-        android:textColor="@color/titleColor"
+        android:background="@color/titleColor"
+        android:textColor="@color/white"
         android:textSize="25sp"
         android:textStyle="bold"
         android:padding="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/text_inMinute"
+        android:textColor="@color/titleColor"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/btn_color"/>
+
 
 </LinearLayout>

@@ -2,4 +2,5 @@
     <string name="app_name" translatable="false">DOBCalc</string>
     <string name="app_calc">CALCULATE YOUR</string>
     <string name="app_age">AGE</string>
+    <string name="text_inMinute">IN MINUTES</string>
 </resources>
