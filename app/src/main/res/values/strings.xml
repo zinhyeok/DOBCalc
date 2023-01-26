@@ -3,4 +3,7 @@
     <string name="app_calc">CALCULATE YOUR</string>
     <string name="app_age">AGE</string>
     <string name="text_inMinute">IN MINUTES</string>
+    <string name="selectDate">You are born at</string>
+    <string name="inMinutes">In minutes till date</string>
+    <string name="blank">____</string>
 </resources>
